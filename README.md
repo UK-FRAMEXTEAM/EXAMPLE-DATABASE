@@ -29,6 +29,9 @@
   <a href="https://whatsapp.com/channel/0029Vb5urgj7z4kfTgSlME16/100">
     <img src="https://img.shields.io/badge/📄 YML Code-green?style=for-the-badge" />
   </a>
+  <a href="https://rawana-md-official-web.vercel.app/">
+    <img src="https://img.shields.io/badge/🌐 Pair Site-purple?style=for-the-badge" />
+  </a>
   <a href="https://wa.me/94757050022">
     <img src="https://img.shields.io/badge/👤 Contact Owner-blue?style=for-the-badge" />
   </a>
@@ -43,3 +46,4 @@
 Stay tuned and ⭐ the repo if you like it!
 
 ---
+
