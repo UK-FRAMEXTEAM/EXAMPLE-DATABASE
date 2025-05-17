@@ -23,7 +23,7 @@
 
 ---
 
-## 🔗 Deployment Resources
+## 🔗 Resources
 
 <p align="center">
   <a href="https://whatsapp.com/channel/0029Vb5urgj7z4kfTgSlME16/100">
