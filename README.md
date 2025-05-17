@@ -1,6 +1,6 @@
 # EXAMPLE_DATABASE
 <p align="center">
-  <img src="https://i.imghippo.com/files/WU1039XIY.jpg" width="300" alt="RAWANA MD Bot Logo" />
+  <img src="https://i.imghippo.com/files/WU1039XIY.jpg" width="400" alt="RAWANA MD Bot Logo" />
 </p>
 
 <h1 align="center">😈 RAWANA MD - WhatsApp Bot</h1>
@@ -48,3 +48,4 @@
 Stay tuned and ⭐ the repo if you like it!
 
 ---
+
