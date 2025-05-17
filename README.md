@@ -27,15 +27,15 @@
 
 <p align="center">
   <a href="https://whatsapp.com/channel/0029Vb5urgj7z4kfTgSlME16/100">
-    <img src="https://img.shields.io/badge/📄 YML Code-green?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/YML_Code-00C853?style=for-the-badge&logo=whatsapp&logoColor=white" />
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://rawana-md-official-web.vercel.app/">
-    <img src="https://img.shields.io/badge/🌐 Pair Site-purple?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/Pair_Site-8e24aa?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://whatsapp.com/channel/0029Vb5urgj7z4kfTgSlME16">
-    <img src="https://img.shields.io/badge/📢 WhatsApp Channel-teal?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/WhatsApp_Channel-009688?style=for-the-badge&logo=whatsapp&logoColor=white" />
   </a>
 </p>
 
@@ -48,5 +48,3 @@
 Stay tuned and ⭐ the repo if you like it!
 
 ---
-
-
