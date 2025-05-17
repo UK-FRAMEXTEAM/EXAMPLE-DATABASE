@@ -34,8 +34,8 @@
     <img src="https://img.shields.io/badge/🌐 Pair Site-purple?style=for-the-badge" />
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://wa.me/94757050022">
-    <img src="https://img.shields.io/badge/👤 Contact Owner-blue?style=for-the-badge" />
+  <a href="https://whatsapp.com/channel/0029Vb5urgj7z4kfTgSlME16">
+    <img src="https://img.shields.io/badge/📢 WhatsApp Channel-teal?style=for-the-badge" />
   </a>
 </p>
 
